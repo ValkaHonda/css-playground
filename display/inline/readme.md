@@ -5,7 +5,7 @@
 - Displays an element as an inline element (like `<span>`).
 - Any height and width properties will have no effect.
 
-- ![alt text](./display-inline-demo.png)
+- ![display inline example](./display-inline-demo.png)
 
 ### At the above screenshot you can notice that:
 
