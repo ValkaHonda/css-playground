@@ -13,3 +13,11 @@
 - div default display property is **blocked**.
 - When elements are with `display: inline`, their width is up to the element's content.
 - **Please**, check the purple background color how it highlights the element when its `display` property is set to `inline`.
+
+### Notice that margin will be applied
+
+- ![margin is applied](./margin-is-applied.png)
+
+### Padding is also applied
+
+- ![padding is also applied](./padding-is-also-applied.png)
